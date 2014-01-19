@@ -1,0 +1,13 @@
+body {
+	background-image: url('../img/bg.jpg');
+}
+
+#main {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -162px;
+	margin-top: -224px;
+	width: 325px;
+	height: 448px;
+}

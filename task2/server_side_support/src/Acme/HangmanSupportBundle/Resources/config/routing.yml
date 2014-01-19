@@ -1,0 +1,6 @@
+acme_hangman_support_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: AcmeHangmanSupportBundle:Default:index }
+acme_hangman_support_rest:
+    pattern:    /rest/
+    defaults: { _controller: AcmeHangmanSupportBundle:Default:rest }

@@ -1,0 +1,4 @@
+acme_hangman_support:
+    resource: "@AcmeHangmanSupportBundle/Resources/config/routing.yml"
+    prefix:   /hangman/
+

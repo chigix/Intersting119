@@ -1,0 +1,91 @@
+.profile{
+	overflow: hidden;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background-color: #171a1f;
+}
+.profile div{
+	color: white;
+	float:left;
+	position: relative;
+	width: 99.4%;
+	margin-left: 1px;
+	margin-top: 1px;
+	background-color: #2f363e;
+	font-size: 11px;
+}
+.profile .ceil{
+	background-color: #e7decd;
+	height: 31%;
+}
+.profile .floor{
+	height: 55%;
+}
+.profile .btn {
+	height: 12.9%;
+	width: 49.4%;
+	border-top: #3a404c 1px solid;
+	color: #545c67;
+	line-height: 53px;
+	text-align: center;
+	background-color: #313840;
+	cursor: pointer;
+}
+.profile .btn .dark {
+	color: #191e24;
+	font-size: 13px;
+}
+.profile .bottomLeftBtn{
+	border-right: #3a404c 1px solid;
+	-moz-border-radius-bottomleft: 8px;
+	-webkit-border-bottom-left-radius: 8px;
+}
+.profile .bottomRightBtn{
+	-moz-border-radius-bottomright: 8px;
+	-webkit-border-bottom-right-radius: 8px;
+	margin-left: 1px;
+}
+.profile .card{
+	width: 59%;
+	height: 68%;
+	background-color: transparent;
+	margin-top: -125%;
+	margin-left: 21%;
+}
+.profile .card div{
+	background-color: transparent;
+	width: 100%;
+	text-align: center;
+	margin-top: 17px;
+}
+.profile .card .avartar{
+	height: 170px;
+	width: 170px;
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	border: 5px solid #e7e0cd;
+	margin-top: 0;
+}
+.profile .card .name{
+	font-size: 17px;
+	color: #e7e0ce;
+	margin-bottom: -10px;
+}
+.profile .card .btn{
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0;
+	border: #191c23 1px solid;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	width: 70%;
+	margin-left: 50%;
+	left: -35%;
+	background-color: #c44b30;
+	line-height: 36px;
+	color: #e8dfce;
+	cursor: pointer;
+}
